@@ -1,6 +1,6 @@
 #include <iostream.h>
 #include <conio.h>
-	main()
+int main()
 {
 	int batas, x, cek, i;
 	cout<<"PROGRAM UNTUK MENETUKAN DERET BILANGAN PRIMA"<<endl<<endl;
@@ -29,4 +29,5 @@
 		cout<<endl<<endl<<endl;
 	}
 	getch();
+	return 0;
 }
